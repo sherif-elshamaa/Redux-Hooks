@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Redux-Hooks/static/css/main.8effc0ab.chunk.css",
-    "main.js": "/Redux-Hooks/static/js/main.3f56893a.chunk.js",
-    "main.js.map": "/Redux-Hooks/static/js/main.3f56893a.chunk.js.map",
-    "runtime-main.js": "/Redux-Hooks/static/js/runtime-main.86c17927.js",
-    "runtime-main.js.map": "/Redux-Hooks/static/js/runtime-main.86c17927.js.map",
-    "static/css/2.4659568d.chunk.css": "/Redux-Hooks/static/css/2.4659568d.chunk.css",
-    "static/js/2.afd1c219.chunk.js": "/Redux-Hooks/static/js/2.afd1c219.chunk.js",
-    "static/js/2.afd1c219.chunk.js.map": "/Redux-Hooks/static/js/2.afd1c219.chunk.js.map",
-    "index.html": "/Redux-Hooks/index.html",
-    "static/css/2.4659568d.chunk.css.map": "/Redux-Hooks/static/css/2.4659568d.chunk.css.map",
-    "static/css/main.8effc0ab.chunk.css.map": "/Redux-Hooks/static/css/main.8effc0ab.chunk.css.map",
-    "static/js/2.afd1c219.chunk.js.LICENSE.txt": "/Redux-Hooks/static/js/2.afd1c219.chunk.js.LICENSE.txt"
+    "main.css": "/sherif-elshamaa/ReactHooks/static/css/main.8effc0ab.chunk.css",
+    "main.js": "/sherif-elshamaa/ReactHooks/static/js/main.3f56893a.chunk.js",
+    "main.js.map": "/sherif-elshamaa/ReactHooks/static/js/main.3f56893a.chunk.js.map",
+    "runtime-main.js": "/sherif-elshamaa/ReactHooks/static/js/runtime-main.03f633af.js",
+    "runtime-main.js.map": "/sherif-elshamaa/ReactHooks/static/js/runtime-main.03f633af.js.map",
+    "static/css/2.4659568d.chunk.css": "/sherif-elshamaa/ReactHooks/static/css/2.4659568d.chunk.css",
+    "static/js/2.afd1c219.chunk.js": "/sherif-elshamaa/ReactHooks/static/js/2.afd1c219.chunk.js",
+    "static/js/2.afd1c219.chunk.js.map": "/sherif-elshamaa/ReactHooks/static/js/2.afd1c219.chunk.js.map",
+    "index.html": "/sherif-elshamaa/ReactHooks/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/sherif-elshamaa/ReactHooks/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.8effc0ab.chunk.css.map": "/sherif-elshamaa/ReactHooks/static/css/main.8effc0ab.chunk.css.map",
+    "static/js/2.afd1c219.chunk.js.LICENSE.txt": "/sherif-elshamaa/ReactHooks/static/js/2.afd1c219.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86c17927.js",
+    "static/js/runtime-main.03f633af.js",
     "static/css/2.4659568d.chunk.css",
     "static/js/2.afd1c219.chunk.js",
     "static/css/main.8effc0ab.chunk.css",
